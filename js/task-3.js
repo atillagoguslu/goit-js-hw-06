@@ -1,5 +1,3 @@
-// task1 ve 2 yi açmayı unutma
-
 class StringBuilder {
   value;
   constructor(initialValue) {
