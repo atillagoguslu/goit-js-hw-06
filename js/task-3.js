@@ -26,7 +26,7 @@ class StringBuilder {
     // console.log("First-BOTH =", first);
     const second = first.concat(cBoth);
     this.value = second;
-    // console.log("BOTH =", second);
+    // console.log("Second-BOTH =", second);
   }
 }
 
